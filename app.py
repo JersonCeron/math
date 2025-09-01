@@ -70,7 +70,7 @@ if pdf_file:
     st.write(guia)
     
 # Para usar OpenIA
-
+# openai_api_key = os.getenv("OPENAI_API_KEY")
 # uploaded_file = st.file_uploader("Sube un PDF de matemáticas", type=["pdf"])
 # if uploaded_file:
 #     st.write("Procesando documento...")
