@@ -66,7 +66,7 @@ if pdf_file:
                 "Incluye: definiciones clave, ejemplos claros y ejercicios prácticos."
              )
 
-    st.write("## Comparto tu Guía Educativa")
+    st.write("## Comparto tu Guía Educativa.")
     st.write(guia)
     
 # Para usar OpenIA
